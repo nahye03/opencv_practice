@@ -1,0 +1,3 @@
+/home/nahye/coding/opencv/CamRecord/CMakeFiles/CamRecord.dir
+/home/nahye/coding/opencv/CamRecord/CMakeFiles/edit_cache.dir
+/home/nahye/coding/opencv/CamRecord/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/nahye/coding/opencv/Drawing/CMakeFiles/Drawing.dir
+/home/nahye/coding/opencv/Drawing/CMakeFiles/edit_cache.dir
+/home/nahye/coding/opencv/Drawing/CMakeFiles/rebuild_cache.dir
