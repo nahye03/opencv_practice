@@ -47,5 +47,12 @@ void MaskOp2(){
     split(logo, planes);
 
     Mat mask = planes[3];
+    merge(vector<Mat>(planes.begin(), planes.begin()+3), logo);
+    Mat crop = src(Rect(10,10,logo.cols, logo.rows));
 
+    logo.copyTo(crop, mask);
+
+    imshow("src", src);
+    waitKey();
+    destroyAllWindows();
 }
